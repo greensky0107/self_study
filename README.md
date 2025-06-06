@@ -1,2 +1,3 @@
 # self_study
-review files of modu lab lectures
+1. Study files created in classes 
+2. labeling Dayxx---
